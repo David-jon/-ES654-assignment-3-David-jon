@@ -97,7 +97,7 @@ for iter in range(10):
     temp2 += np.mean(temp)
 print('\n\nOVERALL ACCURACY:',temp2/10)
 
-#) got highest accuracy and digit 3 and 9 got the lowest accuracy
+# got highest accuracy for digit 0 and digit 3 and 9 got the lowest accuracy
 
 
 
