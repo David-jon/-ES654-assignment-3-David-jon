@@ -1,7 +1,7 @@
 The code is taken from
 https://machinelearningmastery.com/how-to-develop-a-convolutional-neural-network-to-classify-photos-of-dogs-and-cats
 
-I have used Snakes vs Dogs. I took 40 phots from snakes from the internet and 40 dog photos from Kaggle catsandogs.zip. Then I renamed all the snake photo to cats.0.jpg, cats.1.jpg....cats.30.jpg. I did this so that I don't have to make adjustments to the code.
+I have used Snakes vs Dogs. I took 40 phots from snakes from the internet and 40 dog photos from Kaggle catsandogs.zip. Then I renamed all the snake photo to cats.0.jpg, cats.1.jpg....cats.39.jpg. I did this so that I don't have to make adjustments to the code.
 
 Here are the 3 accuracies that I got
 
